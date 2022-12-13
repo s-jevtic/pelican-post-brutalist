@@ -1,3 +1,5 @@
+**THE BELOW README IS WRITTEN BY THE ORIGINAL AUTHOR**
+
 ![version 1](https://img.shields.io/badge/version-1.0-blue.svg?longCache=true)
 
 ![Brutalist Pelican Theme](https://brutalistpelican.com/images/site-cover.jpg "Brutalist Pelican Theme") 
